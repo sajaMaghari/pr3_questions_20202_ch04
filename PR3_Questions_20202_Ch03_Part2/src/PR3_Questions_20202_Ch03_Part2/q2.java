@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Q2;
+package PR3_Questions_20202_Ch03_Part2;
 
 import java.io.File;
 import java.io.FileNotFoundException;

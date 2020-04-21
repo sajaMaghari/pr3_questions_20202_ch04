@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Q4;
+package PR3_Questions_20202_Ch03_Part2;
+
+import Q4.*;
 
 /**
  *

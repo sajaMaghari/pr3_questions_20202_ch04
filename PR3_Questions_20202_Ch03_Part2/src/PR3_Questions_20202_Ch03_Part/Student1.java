@@ -10,7 +10,7 @@ package Q4;
  * @author khatib
  */
 public class Student1 {
- Integer ID;
+  Integer ID;
     String Name;
     String Major;
     double Grade;
@@ -25,49 +25,16 @@ public class Student1 {
         this.Grade = Grade;
     }
 
-    public Integer getID() {
-        return ID;
-    }
-
-    public void setID(Integer ID) {
-        this.ID = ID;
-    }
-
-    public String getName() {
-        return Name;
-    }
-
-    public void setName(String Name) {
-        this.Name = Name;
-    }
-
-    public String getMajor() {
-        return Major;
-    }
-
-    public void setMajor(String Major) {
-        this.Major = Major;
-    }
-
     public double getGrade() {
         return Grade;
     }
-
-    public void setGrade(double Grade) {
-        this.Grade = Grade;
-    }
-
-    
 
     
     
 
     @Override
     public String toString() {
-        return   "  Name=" + Name +  "  Grade=" + Grade ;
+        return  "ID=" + ID + ",  Name=" + Name + ",   Major=" + Major + ",  Grade=" + Grade ;
     }
-
-    
-   
    
 }
